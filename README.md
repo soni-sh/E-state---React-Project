@@ -6,8 +6,8 @@ Welcome to **Estate**, a sleek and modern real estate frontend project built usi
 
 ## 🚀 Live Demo
 
-🌐 **Live Website**: [Estate on Netlify](https://lnkd.in/gV8z_z5h)  
-📦 **GitHub Repository**: [View Code on GitHub](https://lnkd.in/gfEYXu9S)
+🌐 **Live Website**: [Estate on Netlify](https://soni-sh-react-second.netlify.app/)  
+📦 **GitHub Repository**: [View Code on GitHub](https://github.com/soni-sh/E-state---React-Project)
 
 ---
 
