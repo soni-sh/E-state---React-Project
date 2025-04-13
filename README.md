@@ -1,12 +1,41 @@
-# React + Vite
+# Estate – Explore Homes that fit your Dreams 🏡
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Estate**, a sleek and modern real estate frontend project built using **React** and **Tailwind CSS**. Estate offers a user-friendly, responsive interface that helps you explore dream homes with ease.
 
-Currently, two official plugins are available:
+![Estate Banner](https://lnkd.in/gV8z_z5h) <!-- Optional: Replace with actual image URL or remove this line -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🌐 **Live Website**: [Estate on Netlify](https://lnkd.in/gV8z_z5h)  
+📦 **GitHub Repository**: [View Code on GitHub](https://lnkd.in/gfEYXu9S)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 What I Learned
+
+This project has been an excellent learning experience and helped me dive deeper into key frontend concepts:
+
+- ✅ Building React components and structuring them effectively
+- ✅ Organizing React project folders for better scalability
+- ✅ Implementing React Router for smooth navigation
+- ✅ Designing responsive layouts using Tailwind CSS
+- ✅ Deploying the project on Netlify for easy access
+- ✅ Reusable UI elements and best practices for clean code
+
+---
+
+## 📁 Tech Stack
+
+- **Frontend**: React.js
+- **Styling**: Tailwind CSS
+- **Routing**: React Router DOM
+- **Deployment**: Netlify
+
+---
+
+## 📸 Screenshots
+
+<!-- You can add actual screenshots here -->
+```bash
+[Screenshot1.png]
+[Screenshot2.png]
