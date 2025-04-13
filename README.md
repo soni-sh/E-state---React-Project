@@ -2,7 +2,7 @@
 
 Welcome to **Estate**, a sleek and modern real estate frontend project built using **React** and **Tailwind CSS**. Estate offers a user-friendly, responsive interface that helps you explore dream homes with ease.
 
-![Estate Banner](https://lnkd.in/gV8z_z5h) <!-- Optional: Replace with actual image URL or remove this line -->
+![Estate Banner](/public/img%206.png) <!-- Optional: Replace with actual image URL or remove this line ![VirtualR Banner](/public/img%201.png)  -->
 
 ## 🚀 Live Demo
 
@@ -36,6 +36,9 @@ This project has been an excellent learning experience and helped me dive deeper
 ## 📸 Screenshots
 
 <!-- You can add actual screenshots here -->
-```bash
-[Screenshot1.png]
-[Screenshot2.png]
+
+![Screenshot 1](/public/img%206.png)
+![Screenshot 1](/public/img%207.png)
+![Screenshot 1](/public/img%208.png)
+![Screenshot 1](/public/img%209.png)
+![Screenshot 1](/public/img%2010.png)
